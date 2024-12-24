@@ -1,0 +1,87 @@
+#first{
+    height: 80%;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
+
+#first img{
+    transition: 1s;
+    
+}
+#first:hover img{
+    transition: 1s;
+    border-radius: 60px;
+}
+#second{
+    height: 80%;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
+#second img{
+    transition: 1s;
+    
+}
+#second:hover img{
+    transition: 1s;
+    border-radius: 60px;
+}
+#third{
+    height: 80%;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
+#third img{
+    transition: 1s;
+    
+}
+#third:hover img{
+    transition: 1s;
+    border-radius: 60px;
+}
+#fourth{
+    height: 80%;
+    width: 90%;
+    margin-top: 10%;
+    margin-bottom: 25%;
+    margin-left: 5%;
+    margin-right: 10%;
+    
+}
+#fourth img{
+    transition: 1s;
+    
+}
+#fourth:hover img{
+    transition: 1s;
+    border-radius: 60px;
+}
+iframe{
+    opacity: 0.7;
+    transition: 1s;
+    height: 99%;
+    width: 99%;
+    
+}
+iframe:hover{
+    opacity: 1;
+    transition: 1s;
+    border-radius: 60px;
+}
+#bigtitle{
+    display: inline;
+    font-size: 300%;
+    
+    
+}
