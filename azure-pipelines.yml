@@ -1,0 +1,17 @@
+trigger:
+  - main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+stages:
+  - stage: Build
+    jobs:
+      - job: Build
+        steps:
+          - script: echo "Building Front-end Project"
+  - stage: Deploy
+    jobs:
+      - job: Deploy
+        steps:
+          - script: echo "Deploying Front-end Project"
